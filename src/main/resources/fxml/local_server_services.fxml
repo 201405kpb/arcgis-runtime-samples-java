@@ -30,7 +30,7 @@
 <?import javafx.scene.layout.VBox?>
 <?import java.lang.String?>
 <?import javafx.collections.FXCollections?>
-<BorderPane fx:controller="com.esri.samples.localserver.local_server_services.LocalServerServicesController"
+<BorderPane fx:controller="com.esri.samples.local_server_services.LocalServerServicesController"
             xmlns:fx="http://javafx.com/fxml">
   <!-- Select and Start Service -->
   <top>

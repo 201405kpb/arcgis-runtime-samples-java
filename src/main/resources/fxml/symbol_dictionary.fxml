@@ -22,7 +22,7 @@
 <?import javafx.scene.control.TextField?>
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.text.Text?>
-<BorderPane fx:controller="com.esri.samples.symbology.symbol_dictionary.SymbolDictionaryController"
+<BorderPane fx:controller="com.esri.samples.symbol_dictionary.SymbolDictionaryController"
             xmlns:fx="http://javafx.com/fxml" stylesheets="/css/style.css">
     <padding>
         <Insets bottom="10"/>

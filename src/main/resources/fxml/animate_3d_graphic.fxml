@@ -23,13 +23,13 @@
 
 <?import com.esri.arcgisruntime.mapping.view.MapView?>
 <?import com.esri.arcgisruntime.mapping.view.SceneView?>
-<?import com.esri.samples.scene.animate_3d_graphic.AnimationModel?>
+<?import com.esri.samples.animate_3d_graphic.AnimationModel?>
 
 <?import javafx.animation.Timeline?>
 
 <?import javafx.geometry.Insets?>
 <?import javafx.scene.paint.Color?>
-<StackPane fx:controller="com.esri.samples.scene.animate_3d_graphic.Animate3dGraphicController"
+<StackPane fx:controller="com.esri.samples.animate_3d_graphic.Animate3dGraphicController"
            xmlns:fx="http://javafx.com/fxml" stylesheets="/css/style.css">
     <!--Instantiate model instances to bind to-->
     <fx:define>

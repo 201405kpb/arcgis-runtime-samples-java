@@ -15,12 +15,12 @@ To run the samples in a terminal, `cd` into the project and call the gradle `run
 
 On Linux/Mac
 ```
-$ ./gradlew run -PmainClass="com.esri.samples.scene.display_scene.DisplaySceneSample"
+$ ./gradlew run -PmainClass="com.esri.samples.display_scene.DisplaySceneSample"
 ```
 
 On Windows
 ```
-> gradlew.bat run -PmainClass="com.esri.samples.scene.display_scene.DisplaySceneSample"
+> gradlew.bat run -PmainClass="com.esri.samples.display_scene.DisplaySceneSample"
 ```
 
 If no `mainClass` property is supplied, the default sample (set in the build.gradle file) will be run. 

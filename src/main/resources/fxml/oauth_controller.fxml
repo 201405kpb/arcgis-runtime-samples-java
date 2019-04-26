@@ -18,7 +18,7 @@
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 <?import javafx.geometry.Insets?>
-<StackPane xmlns:fx="http://javafx.com/fxml" fx:controller="com.esri.samples.portal.oauth.OAuthController"
+<StackPane xmlns:fx="http://javafx.com/fxml" fx:controller="com.esri.samples.oauth.OAuthController"
            stylesheets="/css/style.css">
     <VBox spacing="10" maxWidth="300" StackPane.alignment="TOP_LEFT">
         <padding><Insets left="20" top="20"/></padding>

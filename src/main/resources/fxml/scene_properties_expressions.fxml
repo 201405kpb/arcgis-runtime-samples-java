@@ -22,7 +22,7 @@
 
 <?import javafx.scene.paint.Color?>
 <?import javafx.geometry.Insets?>
-<StackPane fx:controller="com.esri.samples.scene.scene_properties_expressions.ScenePropertiesExpressionsController" xmlns:fx="http://javafx.com/fxml"
+<StackPane fx:controller="com.esri.samples.scene_properties_expressions.ScenePropertiesExpressionsController" xmlns:fx="http://javafx.com/fxml"
            stylesheets="/css/style.css">
     <!--SDK SceneView-->
     <SceneView fx:id="sceneView"/>

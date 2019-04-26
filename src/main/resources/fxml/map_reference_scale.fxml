@@ -25,7 +25,7 @@
 <?import javafx.collections.FXCollections?>
 <?import java.lang.Double?>
 <StackPane
-    fx:controller="com.esri.samples.map.map_reference_scale.MapReferenceScaleController"
+    fx:controller="com.esri.samples.map_reference_scale.MapReferenceScaleController"
     xmlns:fx="http://javafx.com/fxml"
     stylesheets="/css/style.css">
     <MapView fx:id="mapView"/>

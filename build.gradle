@@ -83,7 +83,7 @@ task downloadData {
 }
 
 run {
-    mainClassName = project.hasProperty("mainClass") ? mainClass : 'com.esri.samples.map.display_map.DisplayMapSample'
+    mainClassName = project.hasProperty("mainClass") ? mainClass : 'com.esri.samples.display_map.DisplayMapSample'
 }
 
 task wrapper(type: Wrapper) {

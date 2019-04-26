@@ -26,7 +26,7 @@
 <?import javafx.scene.layout.BackgroundFill?>
 <?import javafx.scene.paint.Color?>
 <?import javafx.geometry.Insets?>
-<StackPane fx:controller="com.esri.samples.scene.terrain_exaggeration.TerrainExaggerationController" xmlns:fx="http://javafx.com/fxml"
+<StackPane fx:controller="com.esri.samples.terrain_exaggeration.TerrainExaggerationController" xmlns:fx="http://javafx.com/fxml"
            stylesheets="/css/style.css">
     <!--SDK SceneView-->
     <SceneView fx:id="sceneView"/>
